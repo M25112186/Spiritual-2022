@@ -1,0 +1,57 @@
+h1{
+    color: #000000;
+    border: 10px solid rgba(226, 174, 134, 0.73);
+    background-color: rgba(245, 248, 227, 0.74);
+  }
+  
+  body{
+    background-color: #ddf4fa;
+    background-image: url("bg.png"); background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+  }
+  
+  img{
+    border: 1px solid black;
+  }
+  p{
+    font-family: comic sans ms;
+    font-weight: italic;
+  }
+  ol,ul{
+    font-family: Garamond;
+  }
+  <style>
+  a:link {
+    color: #fc007e;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #57e0d6;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #ddf4fa;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgba(104, 0, 255, 0.77);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  </style>
+  div {
+    width: 35px;
+    height: 5px;
+    background-color: #ffffff;
+    margin: 6px 0;
+  }
+  
